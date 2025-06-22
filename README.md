@@ -57,14 +57,10 @@ python Restore.py     # To restore data from DB
 --- 
 
 Or use the sample runner:
-
 python HOSPITAL_MANAGEMENT.py
-```
 
----
 
 ## 🧠 Features
-
 - Basic CRUD operations on patient records
 - MySQL database integration
 - Modular structure with one function per script
