@@ -4,13 +4,13 @@ A simple, script-based Hospital Management System in Python that performs record
 
 ---
 
-## 🧾 Overview
+##  Overview
 
 This project provides basic patient record management through standalone Python scripts. Each operation is encapsulated in a separate file, making it easy to understand and modify. Data is stored and managed via a MySQL backend.
 
 ---
 
-## 📁 Files Overview
+##  Files Overview
 
 | File                  | Description                            |
 |-----------------------|----------------------------------------|
@@ -25,7 +25,7 @@ This project provides basic patient record management through standalone Python 
 
 ---
 
-## 💾 Prerequisites
+##  Prerequisites
 
 - Python 3.x
 - `mysql-connector-python`
@@ -39,7 +39,7 @@ pip install mysql-connector-python
 ---
 
 
-## 🚀 How to Run
+##  How to Run
 
 Make sure MySQL server is running and credentials are set inside the relevant scripts.
 
@@ -60,7 +60,7 @@ Or use the sample runner:
 python HOSPITAL_MANAGEMENT.py
 
 
-## 🧠 Features
+##  Features
 - Basic CRUD operations on patient records
 - MySQL database integration
 - Modular structure with one function per script
